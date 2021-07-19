@@ -1,4 +1,3 @@
-package com.duofriend.shops.common.util;
 
 import cn.hutool.core.lang.Assert;
 import cn.hutool.core.util.NumberUtil;
